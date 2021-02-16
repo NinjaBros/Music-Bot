@@ -4,7 +4,7 @@ An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like
 
 ### **IMPORTANT!** 
 
-If you decide to use this Bot, [check out this Github repo first](https://github.com/navaneethkm004/Music-Bot-With-Filters) cause this is the same exact Bot with standard Discord/Unicode Emojis, which means that you can just simply use it instantly without changing the emojis!
+If you decide to use this Bot, Make sure you know all things before your start
 
 #### Commands:
 
@@ -34,21 +34,11 @@ If you decide to use this Bot, [check out this Github repo first](https://github
 
  **2.** Install [ffmpeg@latest](https://ffmpeg.org) 
 
- **3.** Download this repo and unzip it    |    or git clone it
+ **3.** Download this repo and unzip it    |    or git clone it 
  
  **4.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finder string-progressbar ytdl-core discord-ytdl-core youtube-sr`**
  
  **5.** start the bot with **`node index.js`**<br/>
- 
- [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)</br>
-
-## **TUTORIAL** 
-
-Watch tutorial on YouTube!!<br/>
-
-[<img src="https://github.com/navaneethkm004/my-images/blob/main/Yellow%20Simple%20Education%20YouTube%20Channel%20Art.png?raw=true" width="917" height="515">](https://www.youtube.com/watch?v=IPv1uWSKC-Q)<br/>
-
-Please subscribe my YT channel and like the video.
 
 ## Usage - config.json
 
@@ -69,17 +59,3 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 *Make sure that you have installed [FFmpeg](https://ffmpeg.org), and added it to Systemenvironment variables (PATH)*
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
-
-## SUPPORT ME
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/navaneethkm" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-
-## Credits
-
-[@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
