@@ -1,5 +1,3 @@
-An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
-
 ### **IMPORTANT!** 
 
 If you decide to use this Bot, Make sure you know all things before your start
