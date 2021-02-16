@@ -40,15 +40,15 @@ If you decide to use this Bot, Make sure you know all things before your start
 
 ```json
 {
-  "TOKEN": "",
-  "PREFIX": "+",
-  "approveemoji": "EMOJIID",
-  "denyemoji": "EMOJIID",
-  "erroremoji": "EMOJIID"
+  "TOKEN": "BOT_TOKEN",
+  "PREFIX": "YOUR_FAV_TOKEN",
+  "approveemoji": "EMOJI_PASTE HERE",
+  "denyemoji": "EMOJI_PASTE_HERE",
+  "erroremoji": "EMOJI_PASTE_HERE"
 }
 ```
 
-It is important that you fill in every item of the JSON FILE! every emoji used in this BOT is a custom emoji, the emojis are listed down below as images, which you can download and upload to your server to use them. NOTE: you gotta change emoji.id to emoji.name if you use discord / unicode emojis! Soon a new Repo with standard emojis will be awailable for easy usages!
+It is important that you fill in every item of the JSON FILE! every emoji used in this BOT is a custom emoji, the emojis are listed down below as images, which you can download and upload to your server to use them. NOTE: you gotta change emoji to emoji.name | Soon a new Repo with standard emojis will be awailable for easy usages!
 
 ## **NOTE:**
 
